@@ -88,5 +88,13 @@
       "date": "2024-10-28",
       "order": 11
     }
+  ],
+  "user": [
+    {
+      "userId": "momo",
+      "password": "1234",
+      "nickname": "모모링",
+      "userNum:": 1
+    }
   ]
 }
